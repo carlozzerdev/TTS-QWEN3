@@ -1,0 +1,2 @@
+Mi elección sería combinar las opciones 1 y 3: un estado compacto y persistente por modelo, con un panel desplegable que aparezca únicamente cuando se realiza la prueba o se quieren consultar sus detalles.
+Una consideración importante: el test debería verificar que el modelo realmente responde
